@@ -1,0 +1,46 @@
+html{
+    box-sizing: border-box;
+}
+.post1 {
+    
+    height: 410px;
+    width: 450px;
+    background-color: white;
+    
+}
+
+.container{
+    display: grid;
+    place-items: center;
+    }
+body {
+    
+    flex-direction: column;
+    background-color: black;
+
+}
+.header {
+    display: flex;
+    font-size: small;
+}
+.right{ 
+    margin-left: 300px;
+font-weight: 100;
+}
+
+img {
+    height: 330px;
+    width: 450px;
+}
+.footer{
+    
+    background-color: white;
+}
+
+.separar{
+    margin-left: 310px;
+}
+.comment{
+    margin-left: 10px;
+    
+}
